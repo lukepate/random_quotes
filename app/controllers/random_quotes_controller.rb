@@ -1,0 +1,2 @@
+class RandomQuotesController < ApplicationController
+end
